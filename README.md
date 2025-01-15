@@ -16,7 +16,7 @@ Welcome to the **Statistics Repository**! This repository is designed to provide
 ## **How to Use**
 1. **Bayesian Statistics**:
    - Open the `Bayesian Statistics.ipynb` file in a Jupyter Notebook environment to explore the Python implementation of Bayesian methods.
-   - Refer to `Bayesian Statistics.docx` for a comprehensive understanding of the theoretical background.
+  
 
 2. **Food Sector Analysis**:
    - Navigate to the `Food_sector` folder to access insights related to statistical applications in the food sector.
