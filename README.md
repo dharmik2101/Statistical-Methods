@@ -7,7 +7,7 @@ Welcome to the **Statistics Repository**! This repository is designed to provide
 ## **Contents**
 - **Bayesian Statistics**
   - `Bayesian Statistics.ipynb`: A Jupyter Notebook with detailed examples and implementations of Bayesian statistical methods.
-  - `Bayesian Statistics.docx`: A document explaining the concepts, formulas, and practical use cases of Bayesian statistics.
+
 - **Food Sector**
   - This folder contains a brief explanation of statistical techniques applied to the food sector.
 
